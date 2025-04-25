@@ -1,0 +1,14 @@
+{
+  "name": "amazon",
+  "version": "1.0.0",
+  "description": "e-commerce app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karthik chilumula",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
